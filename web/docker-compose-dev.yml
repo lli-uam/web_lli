@@ -1,0 +1,10 @@
+services:
+  app:
+    build: .
+    volumes:
+      - .:/server
+    ports:
+      - 3000:3000
+    environment:
+      - IN=dev
+    command: npm run dev

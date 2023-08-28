@@ -1,0 +1,134 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,300,500,600,800|Inter:400,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/63e13a660ef524ddaaca66d8.63e13a670d1fc380eaff3dbb.wjhgihw.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-end;
+  margin-right: 9.0px;
+  min-width: 1449px;
+  width: auto;
+}
+
+.logo_uam_lli {
+  height: 109px;
+  object-fit: cover;
+  width: 330px;
+}
+
+.navbar {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4.0px;
+  width: 1026px;
+}
+
+.navbar-link {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: fit-content;
+}
+
+.span {
+  font-weight: 700;
+}
+
+.div_footer {
+  background-color: var(--white);
+  box-shadow: 0px -4px 4px 1px #1975ba1a;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180.00deg);
+  width: 1440px;
+}
+
+.texto_footer {
+  color: var(--primary-color);
+  font-weight: 400;
+  left: 56px;
+  line-height: normal;
+  position: absolute;
+  top: 42px;
+  width: 323px;
+}
+
+.img_catedra {
+  height: 52px;
+  left: 804px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 127px;
+}
+
+.img_icc {
+  height: 51px;
+  left: 968px;
+  object-fit: cover;
+  position: absolute;
+  top: 76px;
+  width: 115px;
+}
+
+.img_logos_institucionales {
+  height: 56px;
+  left: 1121px;
+  object-fit: cover;
+  position: absolute;
+  top: 74px;
+  width: 255px;
+}
+
+.div_blanco {
+  background-color: var(--white);
+  box-shadow: 2px 4px 8px 2px #1975ba1a;
+  height: 500px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 354px;
+}
+
+.img_ficha {
+  height: 203px;
+  left: 81px;
+  object-fit: cover;
+  position: absolute;
+  top: 66px;
+  width: 193px;
+}

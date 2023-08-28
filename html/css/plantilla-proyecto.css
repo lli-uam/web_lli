@@ -1,0 +1,379 @@
+/* screen - plantilla-proyecto */
+
+.plantilla-proyecto {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 6619px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.plantilla-proyecto .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 4px 8px 1px #1975ba40;
+  display: flex;
+  gap: 30px;
+  height: 192px;
+  min-width: 1440px;
+  padding: 35px 0;
+}
+
+.plantilla-proyecto .section_intro {
+  height: 1284px;
+  margin-right: 9.0px;
+  margin-top: 97px;
+  position: relative;
+  width: 1199px;
+}
+
+.plantilla-proyecto .h1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 27px;
+  left: 4px;
+  min-height: 160px;
+  position: absolute;
+  top: 0;
+  width: 593px;
+}
+
+.plantilla-proyecto .h1-1 {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1px;
+  width: 593px;
+}
+
+.plantilla-proyecto .linea-1 {
+  height: 8px;
+  width: 127px;
+}
+
+.plantilla-proyecto .financiado-por-minec {
+  color: var(--primary-color);
+  font-weight: 700;
+  left: 6px;
+  line-height: normal;
+  position: absolute;
+  top: 226px;
+  width: 588px;
+}
+
+.plantilla-proyecto .texto_intro {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  left: 3px;
+  position: absolute;
+  top: 479px;
+  width: 1194px;
+}
+
+.plantilla-proyecto .el-anlisis-automti {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 551px;
+}
+
+.plantilla-proyecto .los-temas-del-proyec {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 545px;
+}
+
+.plantilla-proyecto .frame-1 {
+  background-image: url(../img/iic-logo-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 376px;
+  left: 654px;
+  position: absolute;
+  top: 10px;
+  width: 545px;
+}
+
+.plantilla-proyecto .section_equipo {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 143px;
+  min-width: 1440px;
+}
+
+.plantilla-proyecto .overlap-group2 {
+  height: 783px;
+  position: relative;
+  width: 1440px;
+}
+
+.plantilla-proyecto .h1-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  left: 115px;
+  position: absolute;
+  top: 66px;
+  width: fit-content;
+}
+
+.plantilla-proyecto .h1-3 {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 593px;
+}
+
+.plantilla-proyecto .linea {
+  height: 8px;
+  min-width: 127px;
+}
+
+.plantilla-proyecto .texto_equipo {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  left: 114px;
+  position: absolute;
+  top: 196px;
+  width: 1203px;
+}
+
+.plantilla-proyecto .frame-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  padding: 4px 0px 4px 4px;
+  width: fit-content;
+}
+
+.plantilla-proyecto .investigacin-antoni {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 555px;
+}
+
+.plantilla-proyecto .frame-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 4px;
+  width: fit-content;
+}
+
+.plantilla-proyecto .equipo-de-trabajo-pa {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 545px;
+}
+
+.plantilla-proyecto .div_fondo_lineas {
+  background-color: var(--navy-blue-3);
+  height: 783px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.plantilla-proyecto .section_resultados {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  margin-top: 148px;
+  min-height: 1866px;
+  width: 1194px;
+}
+
+.plantilla-proyecto .h1-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  width: fit-content;
+}
+
+.plantilla-proyecto .h1-5 {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 593px;
+}
+
+.plantilla-proyecto .texto_resultados {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  width: 1194px;
+}
+
+.plantilla-proyecto .fases-del-proyecto-f {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 551px;
+}
+
+.plantilla-proyecto .fase-3-estudios-lin {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 545px;
+}
+
+.plantilla-proyecto .section_publicaciones {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 122px;
+  min-width: 1440px;
+}
+
+.plantilla-proyecto .overlap-group3 {
+  height: 746px;
+  position: relative;
+  width: 1440px;
+}
+
+.plantilla-proyecto .h1-6 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  height: 56px;
+  left: 127px;
+  position: absolute;
+  top: 46px;
+  width: fit-content;
+}
+
+.plantilla-proyecto .h1-7 {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 593px;
+}
+
+.plantilla-proyecto .linea-2 {
+  height: 8px;
+  margin-bottom: -21.23px;
+  min-width: 127px;
+}
+
+.plantilla-proyecto .div_fondo_lineas-1 {
+  background-color: var(--navy-blue-3);
+  height: 746px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.plantilla-proyecto .texto_publicaciones {
+  align-items: flex-start;
+  display: flex;
+  height: 350px;
+  justify-content: space-between;
+  left: 123px;
+  position: absolute;
+  top: 141px;
+  width: 1194px;
+}
+
+.plantilla-proyecto .moreno-sandoval-a {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 551px;
+}
+
+.plantilla-proyecto .vargas-sierra-c-y {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: -132.18px;
+  margin-top: -1.00px;
+  width: 545px;
+}
+
+.plantilla-proyecto .h1-8 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  margin-left: 131px;
+  margin-top: 164px;
+  width: fit-content;
+}
+
+.plantilla-proyecto .h1-9 {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 593px;
+}
+
+.plantilla-proyecto .texto_congreso {
+  align-items: flex-start;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 8.0px;
+  margin-top: 49px;
+  width: 1194px;
+}
+
+.plantilla-proyecto .moreno-sandoval-a-1 {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 551px;
+}
+
+.plantilla-proyecto .carbajo-coronado-b {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: -1.00px;
+  width: 545px;
+}
+
+.plantilla-proyecto .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 377px;
+  min-width: 1440px;
+  width: auto;
+}
+
+.plantilla-proyecto .overlap-group1 {
+  height: 180px;
+  position: relative;
+  width: 1440px;
+}

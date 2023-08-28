@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    ports:
+      - 80:80
+    environment:
+      - IN=prod
+    command: npm start

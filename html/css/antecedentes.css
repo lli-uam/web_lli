@@ -1,0 +1,447 @@
+/* screen - antecedentes */
+
+.antecedentes {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 6911px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.antecedentes .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 4px 8px 1px #1975ba40;
+  display: flex;
+  gap: 30px;
+  height: 192px;
+  min-width: 1440px;
+  padding: 35px 0;
+}
+
+.antecedentes .section_antecedentes {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  margin-right: -75px;
+  margin-top: 96px;
+  min-width: 1395px;
+}
+
+.antecedentes .overlap-group1 {
+  height: 1505px;
+  position: relative;
+  width: 1320px;
+}
+
+.antecedentes .h1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 0;
+  min-height: 77px;
+  position: absolute;
+  top: 1px;
+  width: 301px;
+}
+
+.antecedentes .h1-1 {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 47px;
+}
+
+.antecedentes .line {
+  margin-left: 7px;
+}
+
+.antecedentes .overlap-group {
+  height: 1505px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1320px;
+}
+
+.antecedentes .el-laboratorio-de-li {
+  color: var(--primary-color);
+  font-weight: 400;
+  left: 0;
+  line-height: normal;
+  position: absolute;
+  top: 144px;
+  width: 588px;
+}
+
+.antecedentes .span-3 {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.antecedentes .logo_lli_antecedentes {
+  height: 725px;
+  left: 417px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 903px;
+}
+
+.antecedentes .pie_laboratorio {
+  color: var(--black);
+  font-weight: 700;
+  left: 650px;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 559px;
+  width: 524px;
+}
+
+.antecedentes .span-1 {
+  color: var(--primary-color);
+}
+
+.antecedentes .por-otra-parte-se-i {
+  color: var(--primary-color);
+  font-weight: 400;
+  left: 1px;
+  line-height: normal;
+  position: absolute;
+  top: 677px;
+  width: 551px;
+}
+
+.antecedentes .por-ello-el-laborato {
+  color: var(--primary-color);
+  font-weight: 400;
+  left: 650px;
+  line-height: normal;
+  position: absolute;
+  top: 677px;
+  width: 545px;
+}
+
+.antecedentes .section_lineas_investigacion {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 996px;
+  margin-top: 186px;
+  min-width: 1464px;
+}
+
+.antecedentes .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--navy-blue-3);
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  min-height: 996px;
+  padding: 74px 201px;
+  width: 1440px;
+}
+
+.antecedentes .lneas-de-investigacin {
+  align-self: center;
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 47px;
+  min-width: 502px;
+}
+
+.antecedentes .flex-row {
+  align-items: flex-end;
+  display: flex;
+  gap: 43px;
+  height: 686px;
+  min-width: 1017px;
+}
+
+.antecedentes .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 686px;
+  width: 562px;
+}
+
+.antecedentes .linea {
+  align-self: flex-end;
+  height: 8px;
+  width: 127px;
+}
+
+.antecedentes .compilacin-de-corpu {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 67px;
+  width: 439px;
+}
+
+.antecedentes .anotacin-lingstic {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 94px;
+  width: 445px;
+}
+
+.antecedentes .diccionarios-electrnicos {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 99px;
+  width: 280px;
+}
+
+.antecedentes .herramientas-para-ma {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 89px;
+  width: 392px;
+}
+
+.antecedentes .gramticas-computacionales {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 99px;
+  width: 323px;
+}
+
+.antecedentes .flex-col-1 {
+  min-height: 611px;
+  width: 412px;
+}
+
+.antecedentes .bases-de-datos-acsticas {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  width: 288px;
+}
+
+.antecedentes .treebanks {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 89px;
+  width: 119px;
+}
+
+.antecedentes .extraccin-de-informacin {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 89px;
+  width: 288px;
+}
+
+.antecedentes .traduccin-automtica {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 89px;
+  width: 252px;
+}
+
+.antecedentes .herramientas-inform {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 89px;
+  width: 412px;
+}
+
+.antecedentes .terminologa {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 94px;
+  width: 157px;
+}
+
+.antecedentes .section_tesis_finalizadas {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 69px;
+  margin-left: 64.0px;
+  margin-top: 186px;
+  min-height: 2089px;
+  width: 1250px;
+}
+
+.antecedentes .h1-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  margin-left: 37px;
+  min-height: 77px;
+  width: 634px;
+}
+
+.antecedentes .tesis-doctorales-finalizadas {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 47px;
+}
+
+.antecedentes .ficha_tesis_finalizadas-container {
+  gap: 49px;
+  min-width: 1250px;
+}
+
+.antecedentes .ficha_tesis_finalizadas {
+  background-color: var(--primary-color);
+  box-shadow: 2px 4px 8px 2px #1975ba40;
+  height: 434px;
+  justify-content: flex-end;
+  min-width: 384px;
+  padding: 38px 22px;
+}
+
+.antecedentes .doctorando-nuria-ald {
+  color: var(--white);
+  font-weight: 400;
+  line-height: normal;
+  width: 321px;
+}
+
+.antecedentes .ficha_tesis_finalizadas-container-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 49px;
+  min-width: 817px;
+}
+
+.antecedentes .section_tesis_encurso {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  margin-left: 79.0px;
+  margin-top: 152px;
+  min-height: 592px;
+  width: 1265px;
+}
+
+.antecedentes .tesis-doctorales-en-curso {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 47px;
+}
+
+.antecedentes .flex-row-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  gap: 52px;
+  height: 523px;
+  margin-right: 2px;
+  min-width: 1256px;
+}
+
+.antecedentes .flex-col-2 {
+  gap: 81px;
+  min-height: 523px;
+  width: 384px;
+}
+
+.antecedentes .ficha_tesis_encurso {
+  align-items: flex-start;
+  display: flex;
+  min-width: 384px;
+}
+
+.antecedentes .ficha_tesis_finalizadas-1 {
+  background-color: var(--navy-blue-3);
+  box-shadow: 2px 4px 8px 2px #1975ba40;
+  height: 434px;
+  justify-content: flex-end;
+  min-width: 384px;
+  padding: 38px 22px;
+}
+
+.antecedentes .doctorando-nuria-ald-1 {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  width: 321px;
+}
+
+.antecedentes .h1-3 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  margin-left: 127px;
+  margin-top: 111px;
+  min-height: 77px;
+  width: 416px;
+}
+
+.antecedentes .forma-de-contacto {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 47px;
+}
+
+.antecedentes .persona-de-contacto {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: normal;
+  margin-right: 139.0px;
+  margin-top: 29px;
+  width: 1047px;
+}
+
+.antecedentes .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 244px;
+  min-width: 1440px;
+  width: auto;
+}
+
+.antecedentes .overlap-group4 {
+  height: 180px;
+  position: relative;
+  width: 1440px;
+}
+
+.antecedentes .ficha_tesis_finalizadas-2 {
+  align-items: flex-start;
+  display: flex;
+}
+
+.antecedentes .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+}
+
+.antecedentes .line-1 {
+  height: 8px;
+  width: 127px;
+}

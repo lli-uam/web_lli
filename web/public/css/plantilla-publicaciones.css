@@ -1,0 +1,169 @@
+/* screen - plantilla-publicaciones */
+
+.plantilla-publicaciones {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: 1440px;
+  min-height: 100%;
+  position: relative;
+}
+
+.plantilla-publicaciones .header {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-end;
+  margin-left: -9px;
+  min-width: 1449px;
+  width: auto;
+}
+
+.plantilla-publicaciones .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 4px 8px 1px #1975ba40;
+  display: flex;
+  gap: 30px;
+  height: 192px;
+  min-width: 1440px;
+  padding: 35px 0;
+}
+
+.plantilla-publicaciones .logo_uam_lli {
+  height: 109px;
+  object-fit: cover;
+  width: 330px;
+}
+
+.plantilla-publicaciones .navbar {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4.0px;
+  position: relative;
+  width: 1026px;
+}
+
+.plantilla-publicaciones .h1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-left: 123px;
+  margin-top: 100px;
+  min-height: 75px;
+  width: 420px;
+}
+
+.plantilla-publicaciones .h1-1 {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 47px;
+}
+
+.plantilla-publicaciones .linea {
+  height: 8px;
+  width: 127px;
+}
+
+.plantilla-publicaciones .texto_publicaciones {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 57px;
+  margin-bottom: 100px;
+  position: relative;
+  width: 1194px;
+  padding-bottom: 10%;
+}
+
+.plantilla-publicaciones .columna-1 {
+  color: var(--primary-color);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 551px;
+}
+
+.plantilla-publicaciones .columna-2 {
+  color: var(--primary-color);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 545px;
+}
+
+.plantilla-publicaciones .sin-columna {
+  color: var(--primary-color);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: 1440px;
+}
+
+.plantilla-publicaciones .negrita {
+  font-weight: bold;
+}
+
+.plantilla-publicaciones .cursiva {
+  font-style: italic; 
+}
+
+.plantilla-publicaciones .margen {
+  margin-left: 20px;
+}
+
+.plantilla-publicaciones .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 240px;
+  min-width: 1440px;
+  position: relative;
+  bottom: 0px;
+  width: auto;
+}
+
+.plantilla-publicaciones .footer-largo {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-top: 100px;
+  min-width: 1440px;
+  position: relative;
+  bottom: 0px;
+  width: auto;
+}
+
+.plantilla-publicaciones .overlap-group1 {
+  height: 180px;
+  position: relative;
+  width: 1440px;
+}

@@ -1,0 +1,284 @@
+/* screen - actualidad */
+
+.actualidad {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 2680px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.actualidad .header {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-end;
+  margin-left: -9px;
+  min-width: 1449px;
+  width: auto;
+}
+
+.actualidad .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  box-shadow: 0px 4px 8px 1px #1975ba40;
+  display: flex;
+  gap: 30px;
+  height: 192px;
+  min-width: 1440px;
+  padding: 35px 0;
+}
+
+.actualidad .logo_uam_lli {
+  height: 109px;
+  object-fit: cover;
+  width: 330px;
+}
+
+.actualidad .navbar {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4.0px;
+  position: relative;
+  width: 1026px;
+}
+
+.actualidad .overlap-group2 {
+  height: 2300px;
+  position: relative;
+  width: 1442px;
+}
+
+.actualidad .h1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 123px;
+  min-height: 75px;
+  position: absolute;
+  top: 100px;
+  width: 244px;
+}
+
+.actualidad .h1-1 {
+  color: var(--primary-color);
+  font-weight: 700;
+  line-height: normal;
+  min-height: 47px;
+}
+
+.actualidad .section_actualidad {
+  background-color: var(--navy-blue-3);
+  height: 2300px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1442px;
+}
+
+.actualidad .rectangle-2 {
+  top: 274px;
+}
+
+.actualidad .rectangle-3 {
+  top: 756px;
+}
+
+.actualidad .rectangle-4 {
+  top: 1245px;
+}
+
+.actualidad .curso-intensivo-1 {
+  color: var(--white);
+  font-weight: 700;
+  left: 664px;
+  line-height: normal;
+  position: absolute;
+  top: 322px;
+  width: 590px;
+}
+
+.actualidad .subtitulo {
+  color: var(--white);
+  font-weight: 700;
+  left: 664px;
+  line-height: normal;
+  position: absolute;
+  top: 530px;
+  width: 590px;
+}
+
+.actualidad .curso-intensivo-2 {
+  color: var(--white);
+  font-weight: 700;
+  left: 664px;
+  line-height: normal;
+  position: absolute;
+  top: 800px;
+  width: 590px;
+}
+
+.actualidad .fecha-inicio-3105 {
+  color: var(--white);
+  font-weight: 700;
+  left: 664px;
+  line-height: normal;
+  position: absolute;
+  top: 990px;
+  width: 590px;
+}
+
+.actualidad .image-1 {
+  height: 383px;
+  left: 114px;
+  top: 274px;
+  width: 488px;
+}
+
+.actualidad .charla-no-hay-que {
+  color: var(--white);
+  font-weight: 700;
+  left: 664px;
+  line-height: normal;
+  position: absolute;
+  top: 1300px;
+  width: 590px;
+}
+
+.actualidad .address {
+  top: 974px;
+}
+
+.actualidad .image-3 {
+  height: 383px;
+  left: 114px;
+  top: 756px;
+  width: 488px;
+}
+
+.actualidad .linea-1 {
+  left: 664px;
+  position: absolute;
+  top: 500px;
+}
+
+.actualidad .linea-2 {
+  left: 664px;
+  position: absolute;
+  top: 939px;
+}
+
+.actualidad .rectangle-5 {
+  top: 1730px;
+}
+
+.actualidad .annotating-discourse {
+  color: var(--white);
+  font-weight: 700;
+  left: 664px;
+  line-height: normal;
+  position: absolute;
+  top: 1780px;
+  width: 608px;
+}
+
+.actualidad .address-1 {
+  top: 1498px;
+}
+
+.actualidad .address-3 {
+  top: 2000px;
+}
+
+.actualidad .image-4 {
+  height: 383px;
+  left: 114px;
+  top: 1245px;
+  width: 488px;
+}
+
+.actualidad .linea-3 {
+  left: 664px;
+  position: absolute;
+  top: 1450px;
+}
+
+.actualidad .linea-5 {
+  left: 664px;
+  position: absolute;
+  top: 1960px;
+}
+
+.actualidad .botn {
+  align-items: center;
+  background-color: var(--primary-color);
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  left: 597px;
+  padding: 16px 36px;
+  position: absolute;
+  top: 1699px;
+  width: 234px;
+}
+
+.actualidad .image-5 {
+  height: 383px;
+  left: 105px;
+  top: 1730px;
+  width: 499px;
+}
+
+.actualidad .footer {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  justify-content: flex-start;
+  margin-left: 2px;
+  margin-top: 5px;
+  min-width: 1440px;
+  width: auto;
+}
+
+.actualidad .overlap-group1 {
+  height: 180px;
+  position: relative;
+  width: 1440px;
+}
+
+.actualidad .address-2 {
+  color: var(--white);
+  font-weight: 700;
+  left: 664px;
+  line-height: normal;
+  position: absolute;
+  width: 590px;
+}
+
+.actualidad .image {
+  object-fit: cover;
+  position: absolute;
+}
+
+.actualidad .linea-4 {
+  height: 8px;
+  width: 127px;
+}
+
+.actualidad .rectangle {
+  background-color: var(--primary-color);
+  height: 383px;
+  left: 115px;
+  position: absolute;
+  width: 1197px;
+}
