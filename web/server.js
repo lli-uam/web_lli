@@ -90,6 +90,10 @@ server.get(/^\/plantilla-publicaciones/, (req, res) => {
   res.render(`${req.lang}/plantilla-publicaciones.html`);
 });
 
+server.get(/^\/2024-publicaciones/, (req, res) => {
+  res.render(`${req.lang}/2024-publicaciones.html`);
+});
+
 server.get(/^\/2023-publicaciones/, (req, res) => {
   res.render(`${req.lang}/2023-publicaciones.html`);
 });

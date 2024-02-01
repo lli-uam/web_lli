@@ -16,6 +16,8 @@ exec:
 	docker-compose exec app /bin/sh
 
 
+docker compose -f docker-compose-dev.yml up	
+
 
 
 
