@@ -7,7 +7,7 @@ Web para el Laboratorio de Ligüístca Informática UAM
 Bajarse directorio:
 
 ```
-> git clone https://github.com/smrt00/web_lllf
+> git clone https://github.com/lli-uam/web_lli
 ``` 
 
 Ejecutar el servidor:
